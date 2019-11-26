@@ -1,0 +1,13 @@
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\JsonPubSubService.exe.config
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\JsonPubSubService.exe
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\JsonPubSubService.pdb
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\ClientServerUsingNamedPipes.dll
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\Newtonsoft.Json.dll
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\ClientServerUsingNamedPipes.pdb
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\bin\Debug\Newtonsoft.Json.xml
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\JsonPubSubService.csprojAssemblyReference.cache
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\NamedPipeService.ProjectInstaller.resources
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\JsonPubSubService.csproj.GenerateResource.cache
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\JsonPubSubService.csproj.CopyComplete
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\JsonPubSubService.exe
+d:\_workspaces\Task31_Windows_PubSevice\src\NamedPipeService\obj\Debug\JsonPubSubService.pdb

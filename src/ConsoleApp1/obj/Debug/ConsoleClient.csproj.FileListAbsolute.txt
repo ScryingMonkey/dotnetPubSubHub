@@ -1,0 +1,11 @@
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\ClientServerUsingNamedPipes.dll
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\ClientServerUsingNamedPipes.pdb
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\obj\Debug\ConsoleClient.csproj.CopyComplete
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+d:\_workspaces\Task31_Windows_PubSevice\src\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
